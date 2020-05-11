@@ -1,2 +1,2 @@
-# OOP-PHP
-Tugas mata kuliah PABI
+# OOPPHP
+Tugas untuk praktikum mata kuliah PABI
